@@ -1,4 +1,23 @@
 ﻿date;region;systemName;description;statusChange
+2026-02-18;Bosnia and Herzegovina;bihsf;Bosnia and Herzegovina Select Named Freeways;active
+2026-02-18;Belarus;blrsf;Belarus Select Named Freeways;active
+2026-02-18;Europe;eursf;Europe Select Named Freeways;deleted
+2026-02-18;Europe;eurtr;Europe Select Tourist and Scenic Routes;deleted
+2026-02-18;Finland;fintr;Finland Select Tourist and Scenic Routes;preview
+2026-02-18;United Kingdom;gbrsf;United Kingdom Select Named Freeways;active
+2026-02-18;United Kingdom;gbrtr;United Kingdom Select Tourist and Scenic Routes;preview
+2026-02-18;Ireland;irltr;Ireland Select Tourist and Scenic Routes;preview
+2026-02-18;Russia;russf;Russia Select Named Freeways;active
+2026-02-14;(France) Grand-Est;fragesd08;Ardennes Routes Départementales;active
+2026-02-14;(France) Grand-Est;fragesd52;Haute-Marne Routes Départementales;active
+2026-02-04;Cameroon;cmra;Cameroon Autoroutes;active
+2026-01-30;(France) Grand-Est;fragesd88;Vosges Routes Départementales;active
+2026-01-29;(Denmark) Faroe Islands;frosl;Faroe Islands Sóljuleiðir;preview
+2026-01-29;(France) Brittany;frabred22;Côtes-d’Armor Routes Départementales;active
+2026-01-29;(France) Brittany;frabred56;Morbihan Routes Départementales;active
+2026-01-27;(France) Normandy;franord50;Manche Routes Départementales;active
+2026-01-24;(Australia) New South Wales;ausnswb;New South Wales B Roads;active
+2026-01-21;(France) Normandy;franord14;Calvados Routes Départementales;active
 2026-01-18;(France) Normandy;franord61;Orne Routes Départementales;active
 2026-01-17;(Australia) Northern Territory;;Northern Territory Territorial Highways;deleted
 2026-01-14;(France) Normandy;franord27;Eure Routes Départementales;active

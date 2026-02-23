@@ -14,10 +14,11 @@ P20 http://www.openstreetmap.org/?lat=36.191183&lon=136.138643
 N416 http://www.openstreetmap.org/?lat=36.146379&lon=136.098748
 P227 http://www.openstreetmap.org/?lat=36.126374&lon=136.060685
 +X679525 http://www.openstreetmap.org/?lat=36.094262&lon=136.030505
-P6 http://www.openstreetmap.org/?lat=36.050500&lon=136.017107
+P6_N http://www.openstreetmap.org/?lat=36.050500&lon=136.017107
 +X431812 http://www.openstreetmap.org/?lat=36.030939&lon=136.008908
 +X533946 http://www.openstreetmap.org/?lat=35.995230&lon=135.964565
 +X390565 http://www.openstreetmap.org/?lat=35.980201&lon=135.960042
+P6_S http://www.openstreetmap.org/?lat=35.968251&lon=135.968562
 N305_S http://www.openstreetmap.org/?lat=35.955457&lon=135.981906
 +X438044 http://www.openstreetmap.org/?lat=35.961508&lon=135.992009
 P264 http://www.openstreetmap.org/?lat=35.956543&lon=136.023931
@@ -35,7 +36,7 @@ N8_B http://www.openstreetmap.org/?lat=35.876674&lon=136.165794
 P203 http://www.openstreetmap.org/?lat=35.833091&lon=136.195131
 N305_N http://www.openstreetmap.org/?lat=35.822837&lon=136.200342
 E8(5) http://www.openstreetmap.org/?lat=35.797825&lon=136.194986
-N476_N http://www.openstreetmap.org/?lat=35.786875&lon=136.207219
+N476_N http://www.openstreetmap.org/?lat=35.786884&lon=136.207093
 +X979139 http://www.openstreetmap.org/?lat=35.783311&lon=136.198261
 P231 http://www.openstreetmap.org/?lat=35.750840&lon=136.201707
 +X456098 http://www.openstreetmap.org/?lat=35.730704&lon=136.155278
@@ -47,7 +48,7 @@ P140 http://www.openstreetmap.org/?lat=35.601265&lon=136.180754
 P33 http://www.openstreetmap.org/?lat=35.533409&lon=136.208059
 E8/N8 http://www.openstreetmap.org/?lat=35.502810&lon=136.215193
 N8_C http://www.openstreetmap.org/?lat=35.504409&lon=136.220850
-N303_E http://www.openstreetmap.org/?lat=35.499297&lon=136.232100
+N303 http://www.openstreetmap.org/?lat=35.499297&lon=136.232100
 P279 http://www.openstreetmap.org/?lat=35.470599&lon=136.244792
 P265_W http://www.openstreetmap.org/?lat=35.451498&lon=136.263742
 P265_E http://www.openstreetmap.org/?lat=35.442061&lon=136.284301
@@ -67,7 +68,7 @@ P107 http://www.openstreetmap.org/?lat=35.240614&lon=136.466884
 +X979526 http://www.openstreetmap.org/?lat=35.210125&lon=136.455774
 N306_N http://www.openstreetmap.org/?lat=35.196534&lon=136.462174
 P614 http://www.openstreetmap.org/?lat=35.182740&lon=136.475695
-P5_Ina http://www.openstreetmap.org/?lat=35.155622&lon=136.510041
+P5_Mie http://www.openstreetmap.org/?lat=35.155622&lon=136.510041
 N306_S http://www.openstreetmap.org/?lat=35.141079&lon=136.515673
 P140_Mie http://www.openstreetmap.org/?lat=35.122469&lon=136.531759
 N421_W http://www.openstreetmap.org/?lat=35.111279&lon=136.544298
