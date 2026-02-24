@@ -7,7 +7,7 @@ jpnh;JPN;N1;;Izu;Izu-Jūkan Expressway;jpn.n001izu;
 jpnh;JPN;N1;;Kei;Keiji Bypass;jpn.n001kei;
 jpnh;JPN;N1;;Kum;Keiji Bypass Kumiyama;jpn.n001kum;
 jpnh;JPN;N1;;Nis;Nissaka Old Road;jpn.n001nis;
-jpnh;JPN;N1;;Oda;Seishou Bypass-Hakone New Road;jpn.n001oda;N1SSH
+jpnh;JPN;N1;;Oda;Seishou Bypass-Hakone New Road;jpn.n001oda;
 jpnh;JPN;N1;;Ots;Keiji Bypass Ōtsu;jpn.n001ots;
 jpnh;JPN;N1;;Rit;Rittō-Minakuchi Road;jpn.n001rit;
 jpnh;JPN;N1;;Sei;Seishin Bypass;jpn.n001sei;
@@ -1186,4 +1186,5 @@ jpnh;JPN;N505;;;;jpn.n505;
 jpnh;JPN;N506;;;Naha Airport Expressway;jpn.n506;
 jpnh;JPN;N507;;;;jpn.n507;
 jpnh;JPN;N507;;Tsu;Tsukazan Bypass;jpn.n507tsu;
+
 
