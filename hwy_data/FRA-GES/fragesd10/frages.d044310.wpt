@@ -30,7 +30,7 @@ D189 http://www.openstreetmap.org/?lat=48.084920&lon=4.301241
 D671_N http://www.openstreetmap.org/?lat=48.119532&lon=4.372368
 D671_S http://www.openstreetmap.org/?lat=48.114756&lon=4.376501
 D4 http://www.openstreetmap.org/?lat=48.116600&lon=4.386117
-D63_S http://www.openstreetmap.org/?lat=48.121184&lon=4.383633
+D63_Bar http://www.openstreetmap.org/?lat=48.121184&lon=4.383633
 D49 http://www.openstreetmap.org/?lat=48.122540&lon=4.382829
 D63_E http://www.openstreetmap.org/?lat=48.165942&lon=4.415903
 D63/D135 http://www.openstreetmap.org/?lat=48.167812&lon=4.415155
@@ -41,10 +41,10 @@ D30_W http://www.openstreetmap.org/?lat=48.195732&lon=4.440209
 D163 http://www.openstreetmap.org/?lat=48.202367&lon=4.439968
 D81 http://www.openstreetmap.org/?lat=48.233905&lon=4.463652
 D619_W http://www.openstreetmap.org/?lat=48.236181&lon=4.463971
-D79_W http://www.openstreetmap.org/?lat=48.237939&lon=4.464537
-D79_N http://www.openstreetmap.org/?lat=48.238750&lon=4.464454
+GraRue http://www.openstreetmap.org/?lat=48.237939&lon=4.464537
+D79_W http://www.openstreetmap.org/?lat=48.238750&lon=4.464454
 ChePot http://www.openstreetmap.org/?lat=48.240150&lon=4.469955
-D79B/D619 http://www.openstreetmap.org/?lat=48.239749&lon=4.474311
+D79/D619 http://www.openstreetmap.org/?lat=48.239749&lon=4.474311
 D191 http://www.openstreetmap.org/?lat=48.269360&lon=4.504714
 D112_S http://www.openstreetmap.org/?lat=48.279934&lon=4.510228
 D18 http://www.openstreetmap.org/?lat=48.294156&lon=4.516199
