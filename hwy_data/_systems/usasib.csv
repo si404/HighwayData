@@ -1,8 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 usasib;KY;AshBri;;;Ashland Bridge;ky.ashbri;
 usasib;OH;AshBri;;;Ashland Bridge;oh.ashbri;
+usasib;NJ;BetRosBri;;;Betsy Ross Bridge;nj.betrosbri;
 usasib;WA;BriGod;;;Bridge of the Gods;wa.brigod;
 usasib;OR;BriGod;;;Bridge of the Gods;or.brigod;
+usasib;PA;CBSBri;;;Centre Bridge-Stockton Bridge;pa.cbsbri;
+usasib;NJ;CBSBri;;;Centre Bridge-Stockton Bridge;nj.cbsbri;
 usasib;MO;EadBri;;;Eads Bridge;mo.eadbri;
 usasib;IL;EadBri;;;Eads Bridge;il.eadbri;
 usasib;WV;EHunBri;;;East Huntingdon Bridge;wv.ehunbri;
@@ -25,6 +28,12 @@ usasib;OH;MouBri;;;Moundsville Bridge;oh.moubri;
 usasib;WV;MouBri;;;Moundsville Bridge;wv.moubri;
 usasib;KY;ColBri;;;Oakley C Collins Memorial Bridge;ky.colbri;
 usasib;OH;ColBri;;;Oakley C Collins Memorial Bridge;oh.colbri;
+usasib;PA;PorColBri;;;Portland-Colombia Toll Bridge;pa.porcolbri;
+usasib;NJ;PorColBri;;;Portland-Colombia Toll Bridge;nj.porcolbri;
+usasib;PA;UhlFreBri;;;Uhlerstown-Frenchtown Bridge;pa.uhlfrebri;
+usasib;NJ;UhlFreBri;;;Uhlerstown-Frenchtown Bridge;nj.uhlfrebri;
+usasib;PA;WasCroBri;;;Washington Crossing Bridge;pa.wascrobri;
+usasib;NJ;WasCroBri;;;Washington Crossing Bridge;nj.wascrobri;
 usasib;WV;WelBri;;;Wellsburg Bridge;wv.welbri;
 usasib;OH;WelBri;;;Wellsburg Bridge;oh.welbri;
 usasib;WV;WilBri;;;Williamstown Bridge;wv.wilbri;
