@@ -6445,6 +6445,7 @@ date;region;route;root;description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2026-09-22;Serbia;M15;srb.m015;Route extended at west end from exit 3 to exit 4
 2026-06-26;Serbia;A5 (Cacak);srb.a005cac;Route added
 2026-06-26;Serbia;E761;srb.e761;Route removed from B22 and relocated onto A5 between B22_N and A2 exit 6
 2026-06-26;Serbia;B23;srb.b023;Route truncated at east end from A5 to B22
@@ -6933,6 +6934,7 @@ date;region;route;root;description
 2026-09-08;(Spain) Cantabria;N629a (Gibaja);espcb.n629agib;Route added
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
+2026-09-22;(Spain) Castile and Leon;N122 (Valladolid);espcl.n122val;Route extended at north end from VA20 to Plaza Circular
 2026-09-09;(Spain) Castile and Leon;A601;espcl.a601;Route extended at north end from exit 5 to VA30
 2026-09-09;(Spain) Castile and Leon;BU12;espcl.bu012;Route added
 2026-09-09;(Spain) Castile and Leon;NI (Granja Guimara);espcl.n001gra;Route added
