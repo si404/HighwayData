@@ -6934,6 +6934,7 @@ date;region;route;root;description
 2026-09-08;(Spain) Cantabria;N629a (Gibaja);espcb.n629agib;Route added
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
+2026-09-22;(Spain) Castile and Leon;N122 (Valladolid);espcl.n122val;Route extended at north end from VA20 to Plaza Circular
 2026-09-09;(Spain) Castile and Leon;A601;espcl.a601;Route extended at north end from exit 5 to VA30
 2026-09-09;(Spain) Castile and Leon;BU12;espcl.bu012;Route added
 2026-09-09;(Spain) Castile and Leon;NI (Granja Guimara);espcl.n001gra;Route added
