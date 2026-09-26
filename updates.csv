@@ -7012,6 +7012,8 @@ date;region;route;root;description
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
 2018-11-04;(Spain) Castille-le-Mancha;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Mancha;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
+2026-09-26;(Spain) Catalonia;E22;espct.e022;Route added
+2026-09-26;(Spain) Catalonia;E23;espct.e023;Route added
 2026-09-08;(Spain) Catalonia;A14R2;espct.a014r2;Route added
 2026-09-08;(Spain) Catalonia;A22R1;espct.a022r1;Route added
 2026-09-08;(Spain) Catalonia;A22R2;espct.a022r2;Route added
